@@ -1,5 +1,5 @@
 const switchBtn = document.querySelector('.switchBtn input')
-//console.log(switchBtn)
+console.log(switchBtn)
 
 switchBtn.addEventListener('click', () => {
  let img = document.querySelector('#demo');
